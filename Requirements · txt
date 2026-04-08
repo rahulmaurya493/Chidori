@@ -1,6 +1,5 @@
-opencv-python
+opencv-python-headless
 numpy
 pygame-ce
 SpeechRecognition
-pyaudio
 streamlit
